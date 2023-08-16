@@ -1,0 +1,1 @@
+["^ ","~$set-cluster-option!",["^ ","~:row",35,"~:col",1,"~:name","^0","~:ns","~$qbits.alia.cluster-options","~:top-ns","^5"],"~$set-cluster-options!",["^ ","^1",244,"^2",1,"~:fixed-arities",["~#set",[2]],"^3","^7","^4","^5","^6","^5"],"~:filename","/Users/rivers/.m2/repository/cc/qbits/alia/4.3.6/alia-4.3.6.jar:qbits/alia/cluster_options.clj"]

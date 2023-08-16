@@ -1,0 +1,1 @@
+["^ ","~$noop-test",["^ ","~:row",12,"~:col",1,"~:name","^0","~:ns","~$jepsen.tests","~:top-ns","^5"],"~$atom-db",["^ ","^1",27,"^2",1,"~:fixed-arities",["~#set",[1]],"^3","^7","^4","^5","^6","^5"],"~$atom-client",["^ ","^1",34,"^2",1,"^8",["^9",[1,2]],"^3","^:","^4","^5","^6","^5"],"~:filename","/Users/rivers/.m2/repository/jepsen/jepsen/0.2.1/jepsen-0.2.1.jar:jepsen/tests.clj"]
